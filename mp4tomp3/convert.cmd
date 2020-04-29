@@ -1,0 +1,3 @@
+mkdir music                                                                                 :: Creating folder for MP3
+for %%a in ("*.mp4") do C:\path\to\ffmpeg.exe -i "%%a" -b:a 256K -vn "music\%%~na.mp3       :: Converting everything with MP4 extension from folder where converter.cmd exist to music folder
+pause                                                                                       :: Press any key to continue 
