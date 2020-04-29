@@ -1,6 +1,3 @@
-# Readme file for converter
-
-
 ## Deps
 FFMPEG
 
