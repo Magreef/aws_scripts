@@ -1,8 +1,8 @@
-#Readme file for converter
+# Readme file for converter
 
 
-##Deps
+## Deps
 FFMPEG
 
-###Usage
+### Usage
 Open cmd file and it will convert every thing at the folder where converter is.
